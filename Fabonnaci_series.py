@@ -13,7 +13,7 @@ def fab(n):
 print(fab(5))
 print(fab(9))
 
-# FAbonnaci Series using another method
+# Fabonnaci Series using another method
 
 def fab(n):
     if n <= 0 :
